@@ -1,0 +1,2 @@
+# LSTM_predict_context
+本项目基于tensorflow框架，本着对LSTM循环神经网络的理解，实现了对一段35个单词组成的句子的下文预测
